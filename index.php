@@ -28,9 +28,9 @@
                     <li>
                         <div class="user-view">
                             <div class="background">
-                                <img src="img/sid-1.jpg">
+                                <img src="../img/sid-1.jpg">
                             </div>
-                            <a><img class="circle" src="img/logo-1.png"></a>
+                            <a><img class="circle" src="../img/logo-1.png"></a>
                             <a><span class="white-text name">BIENVENIDO</span></a>
                         </div>
                     </li>
