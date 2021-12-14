@@ -150,7 +150,7 @@
 
     </script>
     <script>
-        console.log('Hola');
+        console.log('Hola, soy goku');
         </script>
 
 </body>
