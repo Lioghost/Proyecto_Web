@@ -150,6 +150,7 @@
 
     </script>
     <script>
+        console.log('Hola');
         </script>
 
 </body>
